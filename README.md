@@ -30,10 +30,14 @@ var head = document.head
 ```
 Il ne vous reste ensuite qu'à glisser/déposer le lien généré dans vos favoris.
 
+![](create-bookmarklet.gif)
+
 # Utilisation
 
 1 Naviguez vers la page à auditer
 2 Cliquez sur votre favori
 3 Une liste déroulante est alors ajoutée à votre page. Il ne vous reste plus qu'a choisir la propriété que vous souhaitez changer
+
+![](use-bookmarklet.gif)
 
 **Les propriétés se cumulent, vous pouvez choisir reset dans la liste pour supprimer les styles déjà appliqués**
