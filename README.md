@@ -1,4 +1,4 @@
-# accessibility-spacings
+# Accessibility-spacings
 
 Ce script permet de tester plus facilement le critère 10.12 du référentiel RGAA V4.
 
